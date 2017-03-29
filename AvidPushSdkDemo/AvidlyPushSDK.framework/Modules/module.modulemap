@@ -1,0 +1,6 @@
+framework module AvidlyPushSDK {
+  umbrella header "AvidlyPushSDK.h"
+
+  export *
+  module * { export * }
+}
